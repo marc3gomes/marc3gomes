@@ -3,9 +3,9 @@
 
 <img src="https://media.giphy.com/media/MCOjEND5u6PGVFCnOE/giphy.gif" width="200px">
 
-💻 &nbsp; Developer Full Stack at [Corsair](https://suporte-corsair.com.br/)<br>
+💻 &nbsp; I am the founder of [epec](https://epec.art.br)<br>
 📕 &nbsp; In love in UX Design and UI Design <br>
-🌱 &nbsp; I’m currently learning SQL<br>
+🌱 &nbsp; I'm currently studying React<br>
 :shipit: &nbsp; I'm specializing in [React](https://github.com/facebook/react/) <br>
 📫 &nbsp; How to reach me: marc.rgo@gmail.com <br>
 🏡 &nbsp; Brazilian, Based in Recife, PE
