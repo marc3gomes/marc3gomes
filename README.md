@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/MCOjEND5u6PGVFCnOE/giphy.gif" width="200px">
 
 💻 &nbsp; I"m software engineer<br>
-🛹 &nbsp; I love skateboarding
+🛹 &nbsp; I love skateboarding <br>
 📕 &nbsp; In love in UX Design and UI Design <br>
 🌱 &nbsp; I'm currently studying computer engineering<br>
 📫 &nbsp; How to reach me: marc.rgo@gmail.com <br>
