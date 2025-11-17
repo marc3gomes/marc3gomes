@@ -8,7 +8,7 @@
 📕 &nbsp; In love in UX Design and UI Design <br>
 🌱 &nbsp; I'm currently studying computer engineering<br>
 📫 &nbsp; How to reach me: marc.rgo@gmail.com <br>
-🏡 &nbsp; Brazilian, Based in Recife, PE
+🏡 &nbsp; Brazilian, Based in São Paulo, SP
 
 <!---
 marc3gomes/marc3gomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
